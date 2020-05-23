@@ -1,0 +1,25 @@
+{
+  "name": "kibana",
+  "version": "1.0.0",
+  "description": "ELK stack",
+  "main": "index.js",
+  "dependencies": {
+    "elastic-apm-node": "^3.6.1",
+    "elasticsearch": "^16.7.1",
+    "get-json": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengw00/kibana.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pengw00/kibana/issues"
+  },
+  "homepage": "https://github.com/pengw00/kibana#readme"
+}
